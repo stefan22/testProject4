@@ -1,3 +1,3 @@
-require 'public/js/app/server'
+require './server'
 
 run Sinatra::Application
