@@ -2,7 +2,7 @@ require 'sinatra'
 
 get '/' do
 
-"index.html"
+send_file "index.html"
 
 
 end
@@ -10,4 +10,3 @@ end
 
 
 set :public_folder, 'public'
-enable :sessions
