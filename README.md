@@ -1,6 +1,6 @@
 #testProject3  -- ANGULAR (practice round)
 
-heroku app => http://githubprofiles.herokuapp.com/
+ > heroku app => http://githubprofiles.herokuapp.com/
 
 need node and bower install
 
