@@ -1,6 +1,10 @@
 #testProject4  -- ANGULAR (practice round)
 
  > heroku app => http://githubprofiles.herokuapp.com/
+ 
+ ## app deployed to heroku - pre-heroku is testProject3
+ 
+ 
 
 need node and bower install
 
